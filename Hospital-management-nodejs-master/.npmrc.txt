@@ -1,0 +1,1 @@
+registry=http://3.95.227.26:8081/repository/npm-reg/
